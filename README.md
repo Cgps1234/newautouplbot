@@ -1,6 +1,6 @@
 ## Deploy To Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/xpingpongx/Appx-Auto-Uploader-3.0)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Cgps1234/newautouplbot)
 
 
 # AppxAutoUploader 2.0 Telegram Bot
